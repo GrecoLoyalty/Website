@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    background-color: transparent; 
+    border: none;
+}
+
+#watch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 125px;
+    height: 70px;
+    border: 2px solid cyan;
+    color: cyan;
+    margin-top: -10%;
+    font-family: monospace;
+    font-size: 1.7rem;
+    border: none;
+}
